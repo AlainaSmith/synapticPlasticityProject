@@ -21,6 +21,8 @@ body {
 
   #brain {
     transition: transform .7s ease-in-out;
+    height: 200px;
+    width: 300px;
   }
   #brain:hover {
     transform: rotate(90deg);
